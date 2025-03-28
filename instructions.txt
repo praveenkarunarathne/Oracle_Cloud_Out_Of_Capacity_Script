@@ -1,0 +1,66 @@
+##### Creating VCN and Subnet (optional) #####
+
+Destination CIDR Block  :-  0.0.0.0/0
+
+##### Editing Bot.py File in the script #####
+
+Bot Father  :-  @BotFather
+
+Rose Bot  :-  @MissRose_bot
+
+##### Creating GitHub Account and GitHub Repository #####
+
+Github Signup Link  :-  https://github.com/signup
+
+##### Running Script #####
+
+### Windows ###
+
+Python Download Link  :-  https://www.python.org/
+
+GitHub Login  :-  https://github.com/login
+
+Opening Command Prompt  :-  cmd
+
+Install Python Packages  :-  pip install -r requirements.txt
+
+Script Starting  :-  python bot.py
+
+### Linux ###
+
+Get Root Access  :-  sudo -i
+
+Update Packages  :-  apt-get update -y && apt-get upgrade -y
+
+Install Python3, Pip, Screen and Git  :-  apt-get install python3 -y && apt-get install python3-pip -y && apt-get install screen -y && apt-get install git -y
+
+Copy GitHub Repository  :-  git clone ******
+
+Find Copied Folder  :-  ls
+
+Go to Folder  :-  cd ******
+
+Install Python Packages  :-  pip install -r requirements.txt
+
+# fix error #
+
+First  :-  apt-get remove python3-pip -y && wget https://bootstrap.pypa.io/get-pip.py && python3 get-pip.py && sudo reboot
+
+Get Root Access First
+
+Second  :-  pip install pyopenssl --upgrade
+----------------------------------------------------------------------------------------------
+
+Test Script  :-  python3 bot.py
+
+Make Screen  :-  screen
+
+Run Script  :-  python3 bot.py
+
+Go to Screen Again  :-  screen -r
+
+##### Other Option For Running Script #####
+
+Telegram Group  :-  https://t.me/+3uqD7yCFngMxODI1
+
+Discord Group  :-  https://discord.gg/jJfBh8cEQG
