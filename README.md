@@ -117,11 +117,4 @@ pip install pyopenssl --upgrade
 
 ---
 
-## 🌐 Support
-
-- **Telegram Group**: [Join Here](https://t.me/+3uqD7yCFngMxODI1)
-- **Discord Server**: [Join Here](https://discord.gg/jJfBh8cEQG)
-
----
-
 > ✨ Make sure to update `bot.py` with your Bot API key and logic before running the script.
