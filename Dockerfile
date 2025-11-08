@@ -13,6 +13,5 @@ FROM python:3.10-alpine
 
 WORKDIR /app
 COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/python3.10/site-packages
-COPY . .
 
 CMD ["python", "bot.py"]
