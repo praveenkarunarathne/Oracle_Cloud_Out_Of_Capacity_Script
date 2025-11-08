@@ -1,3 +1,4 @@
 requests
 oci
 pyTelegramBotAPI
+dotenv
