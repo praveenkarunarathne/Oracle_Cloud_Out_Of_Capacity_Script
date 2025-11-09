@@ -18,6 +18,12 @@ A complete guide to deploy a Python bot that helps monitor and respond to Oracle
 
 ---
 
+## 🌐 Operating System Images
+
+- [**Operating System Images Webpage**](https://docs.oracle.com/en-us/iaas/images/)
+
+---
+
 ## 🤖 Bot Configuration
 
 - Use [**@BotFather**](https://t.me/BotFather) to create your Telegram bot and get the API token.
