@@ -1,7 +1,14 @@
-
 # 🛠 Oracle_Cloud_Out_Of_Capacity_Script
 
 A complete guide to deploy a Python bot that helps monitor and respond to Oracle Cloud "Out of Capacity" errors. This guide covers everything from bot setup to script execution across Windows and Linux.
+
+---
+
+## Downloading Script
+
+```bash
+   bash <(curl -s https://raw.githubusercontent.com/praveenkarunarathne/Oracle_Cloud_Out_Of_Capacity_Script/refs/heads/main/download_script.sh)
+   ```
 
 ---
 
